@@ -7,6 +7,8 @@ RUN apt-get update \
     vim \
     ros-humble-desktop \
     ros-humble-v4l2-camera \
+    ros-humble-realsense2-camera \
+    ros-humble-realsense2-description \
     python3-vcstool \
     x11-apps \
     gedit \
